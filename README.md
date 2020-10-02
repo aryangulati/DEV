@@ -1,4 +1,4 @@
-# Hacktoberfest2020
+<h1 align="center"> Hacktoberfest2020 🎉</h1>
 
 ![hack](https://user-images.githubusercontent.com/72219783/94843844-eade8d00-043a-11eb-9c85-e9c44e1f32f1.jpg)
 
