@@ -24,3 +24,5 @@ Dev - if(traffic == NULL){print("Soon"):}<br>
 Gf - Come Quick. I am wearing nothing<br>
 Dev - ERROR 404(MIND NOT FOUND)!!<br>
 ***
+![joke programming](./images/joke-programmer-count.jpg)
+***
