@@ -6,6 +6,10 @@ write your joke/quote/anything here
 ***
 first rule of programming,
 if it works dont touch it
+***
+It’s not a bug. It’s an undocumented feature!
+Talk is cheap. Show me the code. 
+***
 Dev Joke 1#
 Gf - Hey babe!
 Dev - Hello World.
@@ -21,3 +25,4 @@ Gf - When Will you come back.I miss You baby.
 Dev - if(traffic == NULL){print("Soon"):}
 Gf - Come Quick. I am wearing nothing
 Dev - ERROR 404(MIND NOT FOUND)!!
+***
