@@ -1,4 +1,4 @@
-# Hacktoberfest2020
+# Hacktoberfest 2020
 
 ![hack](https://user-images.githubusercontent.com/72219783/94843844-eade8d00-043a-11eb-9c85-e9c44e1f32f1.jpg)
 
@@ -21,7 +21,7 @@ This repository is open to all members of the GitHub community. Any member can c
 
 ## What is Hacktoberfest?
 
-It is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
+It is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size,Even if you are new to this, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
 - Hacktoberfest is a celebration open to everyone in our global community.
 - Pull requests can be made in any GitHub-hosted repositories/projects.
