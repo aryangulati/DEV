@@ -1,4 +1,16 @@
 # Dev Joke and Quotes 
+## Contribution guidelines
+
+* Make sure if you are adding any image add it to images folder then copy path in your commit like:
+
+      
+
+      ![name](link_of_copied_path)
+
+      
+
+### ALL THE BEST :heart:
+
 
 ***
 first rule of programming,
