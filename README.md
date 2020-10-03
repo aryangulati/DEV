@@ -31,6 +31,6 @@ It is often the first program written by people learning to code.
 |11|[RealBASIC](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.rb)|[aryangulati](https://github.com/aryangulati)|
 |12|[Scala](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.scala)|[aryangulati](https://github.com/aryangulati)|
 |13|[Shell](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.sh)|[paintingai](https://github.com/paintingai)|
-|14|[sm](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.sm)|[aryangulati](https://github.com/aryangulati)|
+|14|[Smalltalk](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.sm)|[aryangulati](https://github.com/aryangulati)|
 |15|[Typescript](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.ts)|[aryangulati](https://github.com/aryangulati)|
 |16|[XML](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.xlsm)|[aryangulati](https://github.com/aryangulati)|
