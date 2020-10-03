@@ -26,5 +26,10 @@ Dev - ERROR 404(MIND NOT FOUND)!!<br>
 ***
 ![joke programming](./images/joke-programmer-count.jpg)
 ***
+"Knock Knock"
+"Whos's there?"
+very long pause...
+"Java"
+***
 I am not Lazy, I am on Energy Saving Mode.
 ***
