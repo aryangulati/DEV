@@ -28,7 +28,7 @@ It is open to everyone in our global community. Whether you’re a developer, st
 - You can sign up anytime between October 1 and October 31.
 ***
 # 👕 Why Should I Contribute?
-Hacktoberfest has a simple and plain moto.
+Hacktoberfest has a simple and plain motto
 > Support open source with meaningful PRs and earn a limited edition T-shirt!
 
 So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source.<br>
