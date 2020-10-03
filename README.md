@@ -21,7 +21,7 @@ It is often the first program written by people learning to code.
 |1|[C#](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/Hello.cs)|[JayeshGhosh](https://github.com/JayeshGhosh)|
 |2|[R](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.R)|[aryangulati](https://github.com/aryangulati)|
 |3|[C](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.c)|[Om Kumar](https://github.com/omkumar40)|
-|4|[CMD](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.cmd)|[aryangulati](https://github.com/aryangulati)|
+|4|[Bash](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.cmd)|[aryangulati](https://github.com/aryangulati)|
 |5|[C++](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.cpp)|[aryangulati](https://github.com/aryangulati)|
 |6|[Java](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.java)|[Kumar-mulekar](https://github.com/Kumar-mulekar)|
 |7|[Javascript](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.js)|[Paulo Lima](https://github.com/prmlimajr)|
