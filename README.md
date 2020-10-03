@@ -39,4 +39,4 @@ making four (4) meaningful contributions to open source projects will qualify yo
 ***
 
 ## 👍 How to Contribute?
-Read our [Contribution Guide]() before making PRs.
+Read our [Contribution Guide](/contributing.md) before making PRs.
