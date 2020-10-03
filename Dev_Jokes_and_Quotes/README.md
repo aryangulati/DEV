@@ -26,3 +26,5 @@ Dev - ERROR 404(MIND NOT FOUND)!!<br>
 ***
 ![joke programming](./images/joke-programmer-count.jpg)
 ***
+I am not Lazy, I am on Energy Saving Mode.
+***
