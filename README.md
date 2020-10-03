@@ -1,43 +1,36 @@
-<h1 align="center"> Hacktoberfest2020 🎉</h1>
 
-![hack](https://user-images.githubusercontent.com/72219783/94843844-eade8d00-043a-11eb-9c85-e9c44e1f32f1.jpg)
+# Hello World
+
+### Hello World in Every Programming Language
+# Contribution guidelines
+
+* Make sure you create a Scripts with proper name "hello" instead of something else.
+* Try to learn new things add "Hello World" in different languages that are not there
+### ALL THE BEST :heart:
 
 
-<p align="center">
-   <a href="https://hacktoberfest.digitalocean.com/">
-            <img src="https://img.shields.io/badge/Hacktoberfest%202020-Win%20a%20T--Shirt%20OR%20Plant%20a%20Tree-critical"></img>
-</a>
-   <img alt="GitHub forks" src="https://img.shields.io/github/forks/aryangulati/Hacktoberfest2020"></a>
-   <img alt="GitHub stars" src="https://img.shields.io/github/stars/aryangulati/Hacktoberfest2020"></a>
-   <img alt="GitHub issues" src="https://img.shields.io/github/issues/aryangulati/Hacktoberfest2020"></a>
+A "Hello, World!"program generally is a computer program that outputs or displays the message "Hello, World!". <br>Such a program is very simple in most programming languages, and is often used to illustrate the basic syntax of a programming language.<br>
+It is often the first program written by people learning to code.
 
-</p>
-<br>
+![Hello](https://user-images.githubusercontent.com/72185115/94937816-b8da3300-04ed-11eb-8d36-3d42ad7b857c.gif)
 
-This repository is open to all members of the GitHub community. Any member can contribute
-[Hacktoberfest PR 2020](https://github.com/aryangulati/Hacktoberfest2020)
+# Contributed Languages
 
-***
-
-## What is Hacktoberfest?
-
-It is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
-
-- Hacktoberfest is a celebration open to everyone in our global community.
-- Pull requests can be made in any GitHub-hosted repositories/projects with [hacktoberfest](https://github.com/search?q=hacktoberfest) topic added.
-- You can sign up anytime between October 1 and October 31.
-***
-# 👕 Why Should I Contribute?
-Hacktoberfest has a simple and plain motto
-> Support open source with meaningful PRs and earn a limited edition T-shirt!
-
-So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source.<br>
-Working with open source project is a rewarding experience that allows you to practice your talent, collaborate with and learn from others, and give back to the developer community. 
-### NOTE:
-* making four (4) meaningful contributions to open source projects will qualify you for prizes
-* Scripts to be added in there respective folder with proper doumentaion.
-
-***
-
-## 👍 How to Contribute?
-Read our [Contribution Guide](/CONTRIBUTING.md) before making PRs.
+|    | Language | Contributor(s) |
+|--- | --- | --- | 
+|1|[C#](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/Hello.cs)|[JayeshGhosh](https://github.com/JayeshGhosh)|
+|2|[R](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.R)|[aryangulati](https://github.com/aryangulati)|
+|3|[C](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.c)|[Om Kumar](https://github.com/omkumar40)|
+|4|[CMD](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.cmd)|[aryangulati](https://github.com/aryangulati)|
+|5|[C++](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.cpp)|[aryangulati](https://github.com/aryangulati)|
+|6|[Java](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.java)|[Kumar-mulekar](https://github.com/Kumar-mulekar)|
+|7|[Javascript](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.js)|[Paulo Lima](https://github.com/prmlimajr)|
+|8|[Kotlin](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.kt)|[Pooja Malani](https://github.com/poojamalani15)|
+|9|[PHP](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.php)|[lucianotapia](https://github.com/lucianotapia)|
+|10|[Python](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.py)|[Jagad yudha](https://github.com/jagadyudha) [Devnarayan Patel](https://github.com/devnarayanp02) [RRS074](https://github.com/RRS074)|
+|11|[RealBASIC](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.rb)|[aryangulati](https://github.com/aryangulati)|
+|12|[Scala](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.scala)|[aryangulati](https://github.com/aryangulati)|
+|13|[Shell](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.sh)|[paintingai](https://github.com/paintingai)|
+|14|[sm](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.sm)|[aryangulati](https://github.com/aryangulati)|
+|15|[Typescript](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.ts)|[aryangulati](https://github.com/aryangulati)|
+|16|[XML](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Hello_World/hello.xlsm)|[aryangulati](https://github.com/aryangulati)|
