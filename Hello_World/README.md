@@ -1,6 +1,12 @@
 # Hello World
 
 ### Hello World in Every Programming Language
+# Contribution guidelines
+
+* Make sure you create a Scripts with proper name "hello" instead of something else.
+* Try to learn new things add "Hello World" in different languages that are not there
+### ALL THE BEST :heart:
+
 
 A "Hello, World!"program generally is a computer program that outputs or displays the message "Hello, World!". <br>Such a program is very simple in most programming languages, and is often used to illustrate the basic syntax of a programming language.<br>
 It is often the first program written by people learning to code.
