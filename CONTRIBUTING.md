@@ -16,7 +16,7 @@ There are 3 folders namely
 You can contribute to any of the latter two, while adding any developer joke to Dev_Jokes_and_Quotes (optional). 
 Keep all your commits in one (1) PR, rather than making new PR for every change and spamming.
 
-[Are you having a hard time finding repos to contribute to?](/CONTRIBUTING.md)
+[Are you having a hard time finding repos to contribute to?](/CONTRIBUTING.md#where-to-contribute)
 
 ### How to contribute?
 The most important part of contribution is working on a version of the code/repo without disturbing the overall flow, while others can do the same. For the purpose we follow the given flow. These instructions only cover the basics and changes via github. If you wish to edit and make changes on your system directly instead of github, read here.
