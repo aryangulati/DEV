@@ -5,6 +5,7 @@ This Guide defines how, what, and where to contribute for a meaningful use of yo
 * Follow a repository's contribution guidelines and make meaningful contributuons.
 * Don't make PRs for petty changes like text edits.
 * Your PR should not be a deliberate attempt of completing 4 PRs.
+* Don't hijack other's branches/main.
 
 The purpose of this event and repo is to help learn how to contribute. So, one PR from everyone is expected.
 There are 3 folders namely
@@ -47,3 +48,6 @@ This becomes necessary when you are contributing to medium/large projects and/or
 3. [Create a pull request from the branch on your fork into the master branch of the base repository.](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request-from-a-fork)
 
 ### Where to contribute?
+
+***[Only Valid PRs to repos which have opted-in for hacktoberfest will be counted now.](https://hacktoberfest.digitalocean.com/hacktoberfest-update)***
+Find eligible Hacktoberfest repos [here](https://github.com/topics/hacktoberfest). You can also filter the results further by languages/activity and so on.
