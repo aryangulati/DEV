@@ -34,7 +34,8 @@ Hacktoberfest has a simple and plain moto.
 So, yes! You can win a T-Shirt and few awesome stickers to attach on your laptop. On plus side, you will get into beautiful world of open source.<br>
 Working with open source project is a rewarding experience that allows you to practice your talent, collaborate with and learn from others, and give back to the developer community. 
 ### NOTE:
-making four (4) meaningful contributions to open source projects will qualify you for prizes
+* making four (4) meaningful contributions to open source projects will qualify you for prizes
+* Scripts to be added in there respective folder with proper doumentaion.
 
 ***
 
