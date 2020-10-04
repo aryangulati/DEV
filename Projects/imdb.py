@@ -13,9 +13,10 @@ movies or tv series you entered. Since every movie or tv series has a unique id,
 it reuturns plot, cast name, director of movie or writer of a tv series, rating, genre. """
 
 
-import imdb                      # importing the module
+import imdb,time                      # importing the module
 ia = imdb.IMDb()                 # creating instance of IMDB
 print("=======================")
+time.sleep(2)
 name = input("Enter movie, tv series name : ")                # movie name
 search = ia.search_movie(name)   # searching the movie
 lst = list()		# defining a list
@@ -27,6 +28,7 @@ for j in range(len(search)) :
     lst2.append(id)
 print(lst1)
 print("====================================")
+time.sleep(2)
 print("As there might me many unwanted results. Please select the movie you want the plot of")
 print("\n")
 movie = input("Enter the id of the movie or tv series whose plot you want : ")
