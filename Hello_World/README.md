@@ -5,6 +5,7 @@
 
 * Make sure you create a Scripts with proper name "hello" instead of something else.
 * Try to learn new things add "Hello World" in different languages that are not there
+* Add your language, file in the list below.
 ### ALL THE BEST :heart:
 
 
