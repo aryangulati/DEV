@@ -30,3 +30,7 @@ very long pause...
 ***
 I am not Lazy, I am on Energy Saving Mode.
 ***
+
+Programmer : Son , can you count to 10??
+3 year old son : 1 , 2 , .....
+Programmer : Stop , you're not my son.
