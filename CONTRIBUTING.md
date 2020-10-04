@@ -11,7 +11,7 @@ The purpose of this event and repo is to help learn how to contribute. So, one P
 There are 3 folders namely
 
 - Dev_Jokes_and_Quotes : when adding an image, upload the file to [images folder](/Dev_Jokes_and_Quotes/images/) and use [relative path](https://en.wikipedia.org/wiki/Path_(computing)#Absolute_and_relative_paths) to that image.
-- Hello_World : make sure the file you add has name "hello" (rather than helloworld or so), and it also prints only "hello"
+- Hello_World : make sure the file you add has name "hello" (rather than helloworld or so), and it also prints only "hello"; add your language and name in readme of this folder.
 - Projects
 
 You can contribute to any of the latter two, while adding any developer joke to Dev_Jokes_and_Quotes (optional). 
