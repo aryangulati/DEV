@@ -34,3 +34,7 @@ I am not Lazy, I am on Energy Saving Mode.
 Programmer : Son , can you count to 10??
 3 year old son : 1 , 2 , .....
 Programmer : Stop , you're not my son.
+
+***
+My code DOESN’T work, I have no idea why. My code WORKS, I have no idea why.
+***
