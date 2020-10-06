@@ -1,13 +1,13 @@
-# Dev Joke and Quotes 
+# Dev Joke and Quotes
 ## Contribution guidelines
 
 * Make sure if you are adding any image add it to images folder then copy path in your commit like:
 
-      
+
 
       ![name](link_of_copied_path)
 
-      
+
 
 ### ALL THE BEST :heart:
 
@@ -18,7 +18,7 @@ if it works dont touch it
 It’s not a bug. It’s an undocumented feature!
 
 ***
-Talk is cheap. Show me the code. 
+Talk is cheap. Show me the code.
 
 ***
 ![joke programming](./images/joke-programmer-count.jpg)
@@ -37,4 +37,9 @@ Programmer : Stop , you're not my son.
 
 ***
 My code DOESN’T work, I have no idea why. My code WORKS, I have no idea why.
+***
+
+
+***
+One man’s crappy software is another man’s full time job. – Jessica Gaston
 ***
