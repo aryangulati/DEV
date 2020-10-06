@@ -50,3 +50,11 @@ Me: 29:01:38:62:31:58
 ***
 while(!(suceed=try()) ); 
 ***
+while (noSuccess)
+{
+            tryAgain();
+            if(dead)
+                   break;
+                   
+}
+***
