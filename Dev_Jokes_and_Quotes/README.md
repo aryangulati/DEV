@@ -40,6 +40,28 @@ My code DOESN’T work, I have no idea why. My code WORKS, I have no idea why.
 ***
 
 
+
 ***
 One man’s crappy software is another man’s full time job. – Jessica Gaston
+***
+Boss: What is your address?
+Me: 173.168.15.10
+
+Boss: No, your local address
+Me: 127.0.01
+
+Boss: I mean your physical address
+Me: 29:01:38:62:31:58
+
+***
+while(!(suceed=try()) ); 
+***
+while (noSuccess)
+{
+            tryAgain();
+            if(dead)
+                   break;
+                   
+}
+
 ***
