@@ -56,7 +56,7 @@ Me: 29:01:38:62:31:58
 ***
 while(!(suceed=try()) ); 
 ***
-![](./images/joke-programmer-count.jpg)
+![](./images/algorithm-of-success.jpg)
 
 ***
 Q: How many programmers does it take to change a light bulb?
@@ -66,4 +66,6 @@ A: none, that's a hardware problem
 As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow. - Doug McIlroy
 ***
 Measuring programming progree by lines of code is like measuring aircraft building progree by weight. - Bill Gates
+***
+Testing can only prove the presence of bugs, not their absence. – Edsger W. Dijkstra
 ***
