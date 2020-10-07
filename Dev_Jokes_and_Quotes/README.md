@@ -56,13 +56,7 @@ Me: 29:01:38:62:31:58
 ***
 while(!(suceed=try()) ); 
 ***
-while (noSuccess)
-{
-            tryAgain();
-            if(dead)
-                   break;
-                   
-}
+![](./images/joke-programmer-count.jpg)
 
 ***
 Q: How many programmers does it take to change a light bulb?
