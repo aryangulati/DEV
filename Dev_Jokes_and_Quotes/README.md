@@ -69,3 +69,7 @@ Q: How many programmers does it take to change a light bulb?
 
 A: none, that's a hardware problem
 ***
+As a programmer, it is your job to put yourself out of business. What you do today can be automated tomorrow. - Doug McIlroy
+***
+Measuring programming progree by lines of code is like measuring aircraft building progree by weight. - Bill Gates
+***
