@@ -69,4 +69,4 @@ Measuring programming progree by lines of code is like measuring aircraft buildi
 ***
 Testing can only prove the presence of bugs, not their absence. – Edsger W. Dijkstra
 ***
-![](./images/son.jpg)
+![](https://i.redd.it/w37iqs0v2rq51.png)
