@@ -40,4 +40,4 @@ Working with open source project is a rewarding experience that allows you to pr
 ***
 
 ## 👍 How to Contribute?
-Read our [Contribution Guide](/CONTRIBUTING.md) before making PRs.
+# if it is your First time then Go to  [Contribution Guide](/CONTRIBUTING.md) before making PRs.
