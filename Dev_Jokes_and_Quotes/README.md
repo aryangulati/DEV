@@ -54,7 +54,7 @@ Boss: I mean your physical address
 Me: 29:01:38:62:31:58
 
 ***
-while(!(suceed=try()) ); 
+while(!(suceed=try()) );
 ***
 ![](./images/algorithm-of-success.jpg)
 
@@ -74,3 +74,5 @@ Testing can only prove the presence of bugs, not their absence. – Edsger W. Di
 ***
 ![](https://github.com/aryangulati/Hacktoberfest2020/blob/main/Dev_Jokes_and_Quotes/images/ME%20and%20Boiizzz.jpg)
 ***
+I'm a beginner and I don't no none, but why do I code?
+just for tee from Hacktoberfest
