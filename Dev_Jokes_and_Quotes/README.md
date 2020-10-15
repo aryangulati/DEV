@@ -76,3 +76,6 @@ Testing can only prove the presence of bugs, not their absence. – Edsger W. Di
 ***
 I'm a beginner and I don't no none, but why do I code?
 just for tee from Hacktoberfest
+***
+“You create a gun module, a gun class, a foot module, and a foot class. After realizing3 you can’t point the gun at the foot, you pass a reference to the gun to a foot object. After the foot is blown up, the gun object remains alive for eternity, ready to shoot all future feet that may happen to appear.” ~  Mark Hammond
+***
