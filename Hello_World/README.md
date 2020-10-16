@@ -35,5 +35,6 @@ It is often the first program written by people learning to code.
 |17|[MATLAB](hello.m)|[Anshu Kumari Mahato](https://github.com/Anshu-111)|
 |18|[Perl](hello.pl)|[TrackRunny](https://github.com/TrackRunny)
 |19|[LOLCODE](hello.lol)|[TheLegendOfKitty](https://github.com/TheLegendOfKitty)|
+|20|[ModiScript](hello.chai)|[solarconstant](https://github.com/solarconstant)|
 
 ![Hello](https://user-images.githubusercontent.com/72185115/94937816-b8da3300-04ed-11eb-8d36-3d42ad7b857c.gif)
