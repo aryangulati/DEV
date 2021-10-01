@@ -1,6 +1,6 @@
 <h1 align="center"> Hacktoberfest2021 🎉</h1>
 
-![hack](https://user-images.githubusercontent.com/72219783/94843844-eade8d00-043a-11eb-9c85-e9c44e1f32f1.jpg)
+![hack](https://user-images.githubusercontent.com/42711978/135657354-05005b9f-d686-41a0-8d50-219d57a9be83.png)
 
 
 <p align="center">
