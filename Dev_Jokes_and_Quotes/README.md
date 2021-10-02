@@ -81,3 +81,5 @@ just for tee from Hacktoberfest
 ***
 Ho help, I'm lost is a random forest.
 ***
+Java is to JavaScript what car is to Carpet
+***
