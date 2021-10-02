@@ -95,3 +95,6 @@ dt.setEducation(null);
 ***
 A user Interface is like a joke, if you have to explain it, Its not that Good.
 ***
+### Ahh!! Crap:dizzy_face:
+![](./images/crapp.jpg)
+***
