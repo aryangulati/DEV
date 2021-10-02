@@ -83,3 +83,5 @@ Ho help, I'm lost is a random forest.
 ***
 Java is to JavaScript what car is to Carpet
 ***
+Q: 0 is False and 1 is True, Right?
+A: 1
