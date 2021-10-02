@@ -98,3 +98,5 @@ A user Interface is like a joke, if you have to explain it, Its not that Good.
 ### Ahh!! Crap:dizzy_face:
 ![](./images/crapp.jpg)
 ***
+"There are 10 kind of people, one who understand this and other who don't!"
+***
