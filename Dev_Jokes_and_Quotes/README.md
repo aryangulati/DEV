@@ -89,3 +89,7 @@ A: 1
 DonaldTrump dt = new DonaldTrump();
 dt.setEducation(null);
 ***
+“An SQL query went into a bar. He walked up to two tables and said, “Hi, can I join you?”
+***
+“There are two ways of constructing a software design. One way is to make it so simple that there are obviously no deficiencies. The other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult ~ C.A.R. Hoare 
+***
