@@ -1,2 +1,2 @@
-hello_world :-
-    write('Hello, World!'), nl.
+#!/usr/bin/perl
+print "Hello World!\n"; 
