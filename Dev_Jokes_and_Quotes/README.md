@@ -100,3 +100,6 @@ A user Interface is like a joke, if you have to explain it, Its not that Good.
 ***
 "There are 10 kind of people, one who understand this and other who don't!"
 ***
+Q: What's the object-oriented way to become wealthy?<br>
+A: Inheritance
+***
