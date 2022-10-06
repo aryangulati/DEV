@@ -1,10 +1,10 @@
 # MergeSort in Python
 
-Merge sort is similar to the quick sort algorithm as works on the concept of divide and conquer. 
-It is one of the most popular and efficient sorting algorithm. It is the best example for divide 
-and conquer category of algorithms.
+# Merge sort is similar to the quick sort algorithm as works on the concept of divide and conquer. 
+# It is one of the most popular and efficient sorting algorithm. It is the best example for divide 
+# and conquer category of algorithms.
 
-It divides the given list in the two halves, calls itself for the two halves and then merges the two sorted halves.
+# It divides the given list in the two halves, calls itself for the two halves and then merges the two sorted halves.
 
 def mergeSort(array):
     if len(array) > 1:
